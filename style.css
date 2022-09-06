@@ -1,0 +1,42 @@
+li {
+    list-style-type: none;
+}
+
+.header {
+    background-color: aqua;
+    height: 90px;
+}
+
+.header-logo {
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    background-color: crimson;
+    height: 600px;
+}
+
+.footer {
+    background-color: aqua;
+    height: 120px;
+
+}
+
+.footer-logo{
+    font-size: 36px;
+    padding: 30px 20px;
+    float: left;
+}
+
+.footer-list li{
+    float: right;
+    padding: 40px 20px;
+
+}
